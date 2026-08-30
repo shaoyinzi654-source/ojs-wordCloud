@@ -1,0 +1,38 @@
+# Generated locale file for the wordCloud plugin.
+# Copyright (c) 2026 Bugles (shaoyinzi654-source)
+# Distributed under the GNU GPL v3. For full terms see the file LICENSE.
+msgid ""
+msgstr ""
+"Project-Id-Version: wordCloud 1.0.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_Hans\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "plugins.generic.wordCloud.displayName"
+msgstr "全刊关键词词云"
+
+msgid "plugins.generic.wordCloud.description"
+msgstr "全刊关键词可视化词云，可点击检索。"
+
+msgid "plugins.generic.wordCloud.manager.settings.description"
+msgstr "<p>配置词云页面（访问 /wordcloud）。</p>"
+
+msgid "plugins.generic.wordCloud.manager.settings.max_articles"
+msgstr "最多聚合的文章数"
+
+msgid "plugins.generic.wordCloud.manager.settings.min_count"
+msgstr "关键词最低出现次数"
+
+msgid "plugins.generic.wordCloud.ui.title"
+msgstr "关键词词云"
+
+msgid "plugins.generic.wordCloud.ui.hint"
+msgstr "字号代表关键词在全刊出现的频率，点击词语即可检索。"
+
+msgid "plugins.generic.wordCloud.ui.empty"
+msgstr "已发表且带关键词的文章还不足。"
+
+msgid "plugins.generic.wordCloud.ui.back"
+msgstr "返回期刊"
