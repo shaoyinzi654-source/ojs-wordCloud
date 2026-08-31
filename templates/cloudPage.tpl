@@ -4,13 +4,13 @@
 	<meta charset="utf-8">
 	<title>{$journalName|escape} — {translate key="plugins.generic.wordCloud.ui.title"}</title>
 	<style>
-		body {{ font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; background: #fbfcfd; margin: 0; padding: 40px 20px; }}
-		.wrap {{ max-width: 960px; margin: 0 auto; }}
-		h1 {{ font-size: 22px; }}
-		.cloud {{ text-align: center; line-height: 2.4; }}
-		.cloud a {{ text-decoration: none; margin: 0 10px; color: #14508c; }}
-		.cloud a:hover {{ color: #d44a33; }}
-		.hint {{ color: #888; font-size: 13px; text-align: center; }}
+		body { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; background: #fbfcfd; margin: 0; padding: 40px 20px; }
+		.wrap { max-width: 960px; margin: 0 auto; }
+		h1 { font-size: 22px; }
+		.cloud { text-align: center; line-height: 2.4; }
+		.cloud a { text-decoration: none; margin: 0 10px; color: #14508c; }
+		.cloud a:hover { color: #d44a33; }
+		.hint { color: #888; font-size: 13px; text-align: center; }
 	</style>
 </head>
 <body>

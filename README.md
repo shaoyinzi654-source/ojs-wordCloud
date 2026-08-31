@@ -8,7 +8,7 @@
 
 ## Install 安装
 
-1. Download / clone this repository and copy its **contents** into `plugins/generic/wordCloud/` inside your OJS installation (so that `version.xml` sits at `plugins/generic/wordCloud/version.xml`).
+1. Copy this folder to `plugins/generic/` inside your OJS installation.
 2. In the OJS dashboard go to *Settings → Website → Plugins* and enable the plugin.
 3. Click the plugin's *Settings* button to configure it.
 
